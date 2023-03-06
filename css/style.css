@@ -1108,7 +1108,7 @@ body {
   }
 }
 
-@media (max-width: 26.25em) {
+@media (max-width: 28.75em) {
   .hero__title {
     left: 0.625rem;
   }
